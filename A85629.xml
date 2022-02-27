@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victorie obtained against the enemy, at the raising of the siege before Taunton, on Sunday last, May 11. With the manner of the severall fights; and what was lost on both sides: how the enemy dispersed themselves, 20. colonels, majors and captains slain, and 300. common souldiers in the siege, and many wounded. Certified by two letters: the one from Colonell Weldens quarters, to Sir Thomas Fairfax, his quarters, and the other from Sir Thomas Fairfax his quarters, to a person of note with the Parliament. Published according to order. With a letter of thanks to be sent to Sir Thomas Fairfax for his care, and another to Colonell Welden, &amp;c. for their good service to the publike.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85629</idno>
+            <idno type="STC">Wing G1768</idno>
+            <idno type="STC">Thomason E284_11</idno>
+            <idno type="STC">ESTC R200059</idno>
+            <idno type="EEBO-CITATION">99860862</idno>
+            <idno type="PROQUEST">99860862</idno>
+            <idno type="VID">112988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112988)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E284[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victorie obtained against the enemy, at the raising of the siege before Taunton, on Sunday last, May 11. With the manner of the severall fights; and what was lost on both sides: how the enemy dispersed themselves, 20. colonels, majors and captains slain, and 300. common souldiers in the siege, and many wounded. Certified by two letters: the one from Colonell Weldens quarters, to Sir Thomas Fairfax, his quarters, and the other from Sir Thomas Fairfax his quarters, to a person of note with the Parliament. Published according to order. With a letter of thanks to be sent to Sir Thomas Fairfax for his care, and another to Colonell Welden, &amp;c. for their good service to the publike.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Austin.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weldon, Ralph, --  Early works to 1800.</term>
+               <term>Taunton (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112988:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORIE OBTAINED Againſt the Enemy, at the raiſing of the Siege from before TAUNTON, on Sunday laſt, May 11.</p>
+            <p>WITH The manner of the ſeverall Fights; and what was loſt on both ſides: How the Enemy diſper<g ref="char:EOLhyphen"/>ſed themſelves, 20. Colonels, Majors and Captains ſlain, and 300. common Souldiers in the ſiege, and many wounded.</p>
+            <p>
+               <hi>Certified by two Letters: the one from Colonell</hi> Weldens <hi>Quarters, to Sir</hi> Thomas Fairfax <hi>his Quarters, and the other from Sir</hi> Thomas Fairfax <hi>his Quarters, to a perſon of note with the Parliament.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>With a Letter of thanks to be ſent to Sir <hi>Thomas Fairfax</hi> for his care, and another to Colonell <hi>Welden,</hi> &amp;c. for their good Service to the Publike.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Auſtin.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112988:2"/>
+            <pb n="1" facs="tcp:112988:2"/>
+            <head>The Copie of a Letter, ſent from Petmiſter, from our quarters there, to Sir <hi>Thomas Fairfax</hi> his Army, which was then at Whit<g ref="char:EOLhyphen"/>church, about <hi>12.</hi> miles from Newbery.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y this incloſed Copie you may underſtand the happy newes of the reliefe of Taunton, with that part of our Army which Sir <hi>Thomas Fairfax</hi> ſent thither. And we (which were another party of the Army with Sir <hi>Thomas Fairfax</hi>) are come back to Whitchurch, which is our Head-Quarters. This night wee heare, that <hi>Goring</hi> is upon his march; ſome of his Forces are al<g ref="char:EOLhyphen"/>ready at Bath, and is himſelfe upon his march after with his Ar<g ref="char:EOLhyphen"/>my ſpeeding Weſtward.</p>
+            <closer>
+               <dateline>Whitchurch, <date>13. May. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letters">
+            <head>Here followeth the collection of the Letters incloſed, which were ſent from Petmiſter to Sir <hi>Thomas Fairfax</hi> his Quarters, and deli<g ref="char:EOLhyphen"/>vered at Whitchurch.</head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>BLeſſed be name of God, who hath given to us this cauſe of joy, which may come unexpected to you, and indeed all good people have cauſe to rejoyce, that we have ſuch happy newes to write to you, which makes me ſalute you with theſe joyfull (though rude) lines.</p>
+            <pb n="2" facs="tcp:112988:3"/>
+            <p>On Thurſday the 8.th of this preſent May, we marched from our quar<g ref="char:EOLhyphen"/>ters neer Blanford towards Taunton, but the ſouldiers being incouraged by our Officers, were ſo earneſt upon their march, (though many of then had ſcarce ſhooes with any ſoales for them to tread upon) for the reliefe of poore Taunton, that they were ready to advance early in the morning, and having ſome additionall forces to come from the Countrey, ſo doubled the courage of our men, expreſſing great joy at the hearing of their com<g ref="char:EOLhyphen"/>ing; wee quartered that night between Birdport and Bemiſter, our ſtrength being then in all about 6000. Horſe and Foot, we called a Coun<g ref="char:EOLhyphen"/>ſell of Warre about ordering our buſineſſe in falling upon the enemy, being reſolved if they ſtayed till we came up, to fight with them, ſome diſputes there was whether Col. <hi>Graves</hi> commands of the horſe, or Col. <hi>Welden</hi> of foot ſhould have the guide of the buſineſſe, ſome delivered their opin<g ref="char:EOLhyphen"/>ions for the one, ſome for the other, but laying all ſelf-ends aſide, they be<g ref="char:EOLhyphen"/>ing reſolved that the worke ſhould not be neglected not regarding who had precedency, ſo it was effected, the next morning early they were again upon their march.</p>
+            <p>On Friday the 9.th of May, we marched by Pelliſden Pen, and Bur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oeke, and ſo on towards Chard, which is about 10. miles from Taunton, where we had an intent to quarter that night, and about 3. or 4. houres before night after that we had paſſed Ford, and were come over the bridge, and ſo upon our march, never diſovering one Scout of theirs all the way, untill we came neere Winchan in Kingsbury Hundred within 3. miles of Chard, where we received notice that the enemy were ſtill before Taunton, and that the town was much ſtraitened by them, and in great danger to be loſt, if we did not ſpeedily relieve them; ſo we marched on, and quartered at Chard that night, no enemy all this while appearing to us.</p>
+            <p>On Saturday May the 10:th the enemy faced us with a ſmall party of horſe, not above 300. in ſight, others between them and Taunton, a<g ref="char:EOLhyphen"/>cting what they could to hinder our going on, we drew out upon them,
+<pb n="3" facs="tcp:112988:3"/>and made them to retreat, but by reaſon of the Inlands they by conſtant oppoſition, did ſo trouble us that they hoped to out-vapour our intents, but were deceived; we drove them back by ſeverall charges upon them, all the way between Chard and Petmiſter, which is about 3. miles ſhort of Taunton in the way of Wellington, on our march by parties charging each other, there were ſix priſoners taken, and one killed of the enemies partie; and foure priſoners taken, and one killed on our partie. The enemy continued facing of us ſtill, and the ſiege was continued before Taunton, (as wee underſtood afterwards) but we went ſtill on, following, and driving them back, till w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> came betweene Trull and Orchard, within a mile of Taunton, and there we ſhot off a warning-peece, to give them notice in the towne of our being there: but (it ſeemes they had but little ſtore of powder in the towne, for) there was no anſwer made to us. but night being come, we could not go any further with<g ref="char:EOLhyphen"/>out great danger: and therefore bettook our ſelves to our quar<g ref="char:EOLhyphen"/>ters, ſetting a ſtrong watch about us; and indeed wee reſted but little that night; for all the Army generally thought i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long till morning came, that they might be upon their work, all being reſolved to force the enemy to riſe, or to fight with them. And then making inquiry into the ſtate of the enemy, and what had been done that day, as alſo inquiring into their ſtrength, and ad<g ref="char:EOLhyphen"/>viſing how to manage the next dayes buſineſſe. There was de<g ref="char:EOLhyphen"/>clared unto us by thoſe that we had taken priſoners, that they were confident that we would not have been ſo ſoon with them; but tooke our Army to be their friends, and that ours was <hi>Go<g ref="char:EOLhyphen"/>rings</hi> Army that was come up to ſtrengthen them, they won<g ref="char:EOLhyphen"/>dring why wee fought with them; ſo for that night wee reſted in our quarters at Pitmiſter, Pounsford, and Trull, intending the next morning to fall upon the enemy, who (as wee heard) were about foure or five thouſand.</p>
+            <pb n="4" facs="tcp:112988:4"/>
+            <p>On the next morning (which was the Lords Day, May it.) we drew our ſelves into a poſture to fight with the Enemy; but the enemy had ſo blocked up the way with trees, timber, and o<g ref="char:EOLhyphen"/>ther combuſtible matter, that we could not paſſe; ſo that we were faine to make our way, which we did with what ſpeed could be; and when we came before the towne, the enemy was gone; and therefore in the next place I ſhall certifie you further certifie you what is declared to me concerning the proceedings of the enemy before the towne, and how they now marched off from thence.</p>
+            <p>The enemy have made many aſſaults upon the town, and have been gallantly repulſed: Colonell Blake the Gouernour, and di<g ref="char:EOLhyphen"/>vers other Officers, with the ſouldiers, having (during all the ſiege) ſhewed ſo much gallantry in the defence thereof, that they were reſolved to fight it out in the defence of that place, while they had any power left to defend themſelves withall.</p>
+            <p>On Thurſday the eight of this preſent May the enemy had ſtormed the town with great violence, but were gallantly repul<g ref="char:EOLhyphen"/>ſed, and divers were hurt and killed on both ſides: and although the town was in ſo great diſtreſſe (and the enemy had taken a houſe from them which commanded one of their Works) and that they were not certaine of ſpeedy reliefe, yet (truſting in God) they were reſolved ſtill to ſtand out, notwithſtanding the enemy played hard upon them.</p>
+            <p>On Friday the enemy very deſperately ſtormed the towne a<g ref="char:EOLhyphen"/>gaine, and were againe as valiantly repulſed from the Garriſon, to the great loſſe of the enemy. That which Colonell <hi>Blake</hi> moſt wanted in the town (beſides horſe-meat) was match, where<g ref="char:EOLhyphen"/>by they were forced to burne their bed-cords in ſtead of it. And they began to be ſtraitened of powder; they played upon them all this day, and got ſo cloſe up to the towne, that they burne 20 houſes; but could do no good of it for all that: the towne ſtill held out, and oppoſed them.</p>
+            <pb n="5" facs="tcp:112988:4"/>
+            <p>On Saturday the enemy was not ſo furious, yet made ſome ſhot againſt the towne againe; it is conceived that they ſtayed in expectation of <hi>Gorings</hi> coming up to them; and that by their owne Scouts miſtaking, they took our Army for <hi>Gorings,</hi> as it ſeemes they did when they met them at Chard; and ſo lay ſtill till <hi>Goring</hi> came to them.</p>
+            <p>On the Lords day they did not much trouble the towne, by reaſon of our mens coming upon them, which found them work enough for that day: and in the night the enemy drew off their Cannon, and raiſed the ſiege, taking the opportunitie of the night to fly by; and they divided themſelves ſeverall wayes, one part went towards Wellington, in the way to Exeter, and the other towards Bridgewater, marching away very diſorderly, we have made ſome charges upon ſeverall parties in their Reare, and killed and taken ſome: but by reaſon of the in-land coun<g ref="char:EOLhyphen"/>trey, and moſt of all for the great need that Taunton ſtands in of preſent releefe; as alſo, for that the Souldiers have marched themſelves almoſt off of their legs, they could not without great prejudice (many wayes) deſert the carrying in of releefe ſpeedily into Taunton, to follow the enemy. It is beleeved, that the enemy will be ſuddenly on our skirts, and ſhould theſe Forces be drawne away, they would ſoone lay ſiege before the towne againe, eſpecially when <hi>Goring</hi> is come up to them.</p>
+            <p>There are in Taunton about 200 wounded men, and about 50 (I heare) have been ſlaine during this ſiege: Colonell <hi>Blake</hi> is very well, and there hath not many Officers been loſt: what the particulars are of the enemies loſſes, wee cannot certainly learne for the preſent; but there is much lamentation on their part, for the loſſe of divers gallant men, that were of the Kings beſt Souldiers; they have had many Colonels, Majors, and Captaines, and other Officers of note, at the leaſt 20 ſlaine: and it is beleeved, that at leaſt two or three hundred men have beene
+<pb n="6" facs="tcp:112988:5"/>killed of theirs: and they have abundance of wounded men. They have had many notorious Iriſh Rebels there, but ſtill they having the buriall of their owne dead, wee ſhall ſcarce have all the particulars of their loſſe. But bleſſed be the Lord, that hath given to us the victorie againſt thoſe bloudy Papiſts, and wic-Incendiaries, that care not what miſchiefe they do amongſt ho<g ref="char:EOLhyphen"/>neſt godly Proteſtants.</p>
+            <p>It is beleeved, if the Army continue in thoſe parts, that there will be a good addition of the Countrey-men, who are very much enraged againſt the enemy, by reaſon of their cruell and barbarous carriage towards them.</p>
+            <closer>
+               <dateline>Dated at <hi>Pitmiſter</hi> 
+                  <date>May 12. 1645.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>It is ordered by the Houſe of Commons in Parliament, that a Letter of thanks be ſent to Sir <hi>Thomas Fairfax</hi> for his care, and another to Colonell <hi>Welden,</hi> Colonell <hi>Graves,</hi> and the reſt of the Officers and Souldiers, for their good ſervice in the re<g ref="char:EOLhyphen"/>leeving of Taunton.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
